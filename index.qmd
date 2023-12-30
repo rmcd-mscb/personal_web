@@ -11,11 +11,11 @@ about:
       url: https://scholar.google.com/citations?user=ty8nKBgAAAAJ&hl=en
     - text: "{{< ai orcid >}} ORCID 0000-0002-0703-0638"
       url: https://orcid.org/0000-0002-0703-0638
-    - text: "{{< ai usgs >}} U.S. Geolocial Survey"
+    - text: "{{< ai usgs >}} U.S. Geological Survey"
       url: https://www.usgs.gov/staff-profiles/richard-mcdonald
 ---
 ## BIO
-Hi!  I'm an earth scientist that works on applications of geomorphology and hydrology.  I've worked on problems ranging from aeolian and fluvial sediment-transport, riverine hydraulics, analysis of aquatic physical habitat, lagrangian particle-tracking applications of riverine larval drift and general dispersion, watershed modeling, and open-source gis workflows and web-services.  I'm aslo a software developer with experience in C, C++, FORTRAN, and Python.
+Hi!  I'm an earth scientist that works on applications of geomorphology and hydrology.  I've enjoyed working on topics including: aeolian and fluvial sediment-transport, upland river hydraulics, eco-hydraulics, lagrangian particle-tracking applications of riverine larval drift and general dispersion, watershed modeling, and open-source gis workflows and web-services.  I'm also a software developer with experience in C, C++, FORTRAN, and Python.
 
 ## Education
 * MS, Earth Science, University of California, Santa Cruz 1993
@@ -28,6 +28,6 @@ Hi!  I'm an earth scientist that works on applications of geomorphology and hydr
 * International River Interface Coopoerative (iRIC).  Co-developer and designer of early iterations of the [iRIC application](https://i-ric.org/en/)
 
 ### Python Packages
-* [GDPTools](https://gdptools.readthedocs.io/en/latest/): A python package for spatial interpolations from gridded datasets to arbitrary polygons using area-weighted statistics.
+* [GDPTools](https://gdptools.readthedocs.io/en/latest/): A python package for spatial interpolations of gridded datasets to arbitrary polygons using area-weighted statistics.
 * [FluvialParticle](https://fluvial-particle.readthedocs.io/en/latest/)  A python package for lagrangian particle-tracking.  
 * [CSDMS BMI Applications](https://www.usgs.gov/centers/community-for-data-integration-cdi/science/coupling-hydrologic-models-data-services) A proof-of-concept study that applied the Community Surface Dynamics Modeling System (CSDMS) Basic Modeling Interface (BMI) to the U.S. Geological Survey's Precipitation Runoff Modelling System (PRMS).  
